@@ -1,4 +1,8 @@
 # Инструкция по прошивке принтера Ender 3 S1 версия Marlin 2.1.1
+
+## Внимание!!!
+Актуальная прошивка находится в **[Releases](https://github.com/shah-typhoon/Ender-3-S1/releases)**.
+
 ## Распаковать файлы
 После распаковки в текущей папке должна находиться папка STM32F4_UPDATE с прошивкой вида firmware-<ДАТА>-<ВРЕМЯ>.bin
 где ДАТА и ВРЕМЯ это соответственно дата и время компиляции прошивки. Папка Private для принтера Ender 3 S1 ищем по адресу https://github.com/MarlinFirmware/Configurations/tree/import-2.1.x/config/examples/Creality/Ender-3%20V2/LCD%20Files
